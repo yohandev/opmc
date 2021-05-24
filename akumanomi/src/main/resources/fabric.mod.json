@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "akumanomi",
+  "version": "${version}",
+
+  "name": "Akuma no Mi(悪魔の実)",
+  "description": "Adds devil fruits(悪魔の実) to Minecraft",
+  "authors": [
+    "mythcore",
+    "yohandev"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": "https://github.com/yohandev/opmc"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/akumanomi/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.mythcore.akumanomi.Main"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
