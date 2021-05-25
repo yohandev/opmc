@@ -20,7 +20,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.mythcore.akumanomi.Main"
+      "com.mythcore.akumanomi.Mod"
     ]
   },
   "mixins": [
