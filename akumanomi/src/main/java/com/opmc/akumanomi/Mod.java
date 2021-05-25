@@ -1,4 +1,4 @@
-package com.mythcore.akumanomi;
+package com.opmc.akumanomi;
 
 import net.fabricmc.api.ModInitializer;
 
