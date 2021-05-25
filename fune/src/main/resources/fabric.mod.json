@@ -20,7 +20,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.yohandev.fune.Mod"
+      "com.opmc.fune.Mod"
     ]
   },
   "mixins": [

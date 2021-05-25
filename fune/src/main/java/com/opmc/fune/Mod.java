@@ -1,4 +1,4 @@
-package com.yohandev.fune;
+package com.opmc.fune;
 
 import net.fabricmc.api.ModInitializer;
 
