@@ -1,12 +1,11 @@
 {
   "required": true,
-  "minVersion": "0.8",
   "package": "com.opmc.akumanomi.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
   ],
   "client": [
-    "MinecraftClientMixin"
+    "ExampleMixin"
   ],
   "injectors": {
     "defaultRequire": 1
