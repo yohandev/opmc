@@ -13,6 +13,5 @@ public class Mod implements ModInitializer
 	@Override
 	public void onInitialize()
 	{
-
 	}
 }
