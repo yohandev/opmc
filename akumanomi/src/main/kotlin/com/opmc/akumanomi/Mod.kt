@@ -3,6 +3,7 @@ package com.opmc.akumanomi
 /**
  * Singleton object for the `akumanomi` mod
  */
+@Suppress("unused")
 object Mod
 {
 	/**
